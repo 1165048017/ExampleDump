@@ -3,7 +3,7 @@ Where I put examples for any videos/articles I make.
 
 I suppose it make sense to provide a cross reference here to what each example is related to:
 
-- RotatedRegion3 : https://www.youtube.com/watch?v=NgV66HPqUoo
+- RotatedRegion3 : https://scriptinghelpers.org/blog/rotated-region-3 (old: https://www.youtube.com/watch?v=NgV66HPqUoo)
 - Triangles 2D :  http://wiki.roblox.com/index.php?title=2D_triangles (https://drive.google.com/file/d/0B8NceKcllVYrZHpyd01uOWwtdHM/view)
 - Verlet integration :  http://wiki.roblox.com/index.php?title=Verlet_integration (https://drive.google.com/file/d/0B8NceKcllVYrXzhlaDFWdHp5YTg/view)
 - Quaternions / Slerping : https://www.youtube.com/watch?v=BXajpAy5-UI (https://drive.google.com/file/d/0B8NceKcllVYrZTRoV2VzZ1QtUDQ/view)
@@ -17,3 +17,4 @@ I suppose it make sense to provide a cross reference here to what each example i
 - Bézier curves : http://wiki.roblox.com/index.php?title=B%C3%A9zier_curves
 - Silhouettes and shadows : https://scriptinghelpers.org/blog/silhouettes-and-shadows (https://drive.google.com/file/d/0B8NceKcllVYrc1ByTjNSbzRFNEE/view)
 - 2D collision detection : http://wiki.roblox.com/index.php?title=2D_Collision_Detection (https://www.youtube.com/watch?v=IELWpIGtjRg)
+- 2D raycasting : https://www.youtube.com/watch?v=c065KoXooSw

@@ -20,3 +20,4 @@ I suppose it make sense to provide a cross reference here to what each example i
 - 2D raycasting : https://www.youtube.com/watch?v=c065KoXooSw
 - Point in triangle : https://drive.google.com/file/d/0B8NceKcllVYrRXotd0szamY5Rlk/view
 - GJK collision : https://drive.google.com/file/d/0B8NceKcllVYrdnpwbkZvempqTUk/view
+- 3D triangles : http://wiki.roblox.com/index.php?title=3D_triangles

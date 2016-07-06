@@ -21,3 +21,5 @@ I suppose it make sense to provide a cross reference here to what each example i
 - Point in triangle : https://drive.google.com/file/d/0B8NceKcllVYrRXotd0szamY5Rlk/view
 - GJK collision : https://drive.google.com/file/d/0B8NceKcllVYrdnpwbkZvempqTUk/view
 - 3D triangles : http://wiki.roblox.com/index.php?title=3D_triangles
+- Convex hulls : https://scriptinghelpers.org/blog/convex-hull-algorithms
+- 3D line intersections : https://drive.google.com/file/d/0B8NceKcllVYrQ1QxWGt2S0NrREk/view

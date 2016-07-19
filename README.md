@@ -23,3 +23,4 @@ I suppose it make sense to provide a cross reference here to what each example i
 - 3D triangles : http://wiki.roblox.com/index.php?title=3D_triangles
 - Convex hulls : https://scriptinghelpers.org/blog/convex-hull-algorithms
 - 3D line intersections : https://drive.google.com/file/d/0B8NceKcllVYrQ1QxWGt2S0NrREk/view
+- Vectors and CFrames : http://wiki.roblox.com/index.php?title=User:EgoMoose/Articles/CFramesAndVectors (https://drive.google.com/file/d/0B8NceKcllVYrMm9DOUFXaHNVTmc/view)

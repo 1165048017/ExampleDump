@@ -1,6 +1,6 @@
 # ExampleDump
 
-**I UPLOADED ALL WRITTEN ARTILCES TO THE WIKI. IT IS RECOMMENDED THAT YOU USE THOSE OVER THE PDFS AS THEY CAN BE EDITTED FIXED AS TIME GOES ON (IF NEED BE):** http://wiki.roblox.com/index.php?title=User:EgoMoose/Articles
+**I UPLOADED ALL WRITTEN ARTILCES TO THE WIKI. IT IS RECOMMENDED THAT YOU USE THOSE OVER THE PDFS AS THEY CAN BE EDITTED AND FIXED AS TIME GOES ON (IF NEED BE):** http://wiki.roblox.com/index.php?title=User:EgoMoose/Articles
 
 
 Where I put examples for any videos/articles I make. I think these are in the order I made them, but one or two might be swapped with each other. As long as you do the prerequisites though you'll be fine so just pick what interests you.
